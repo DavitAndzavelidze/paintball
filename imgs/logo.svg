@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100px;
+        fill: #ff0202;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: "Franklin Gothic Heavy";
+      }
+
+      .cls-2 {
+        font-size: 80px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 65px;
+      }
+    </style>
+  </defs>
+  <text id="N" class="cls-1" transform="translate(99.072 115.511) rotate(6.931)">N</text>
+  <text id="ORTH" class="cls-2" x="179" y="120">ORTH</text>
+  <text id="L_A_N_D" data-name="L  A  N  D" class="cls-3" x="116" y="180">L  A  N  D</text>
+</svg>
